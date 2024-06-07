@@ -1,4 +1,6 @@
 # Karel
+![images](https://github.com/abdallahfm/Karel/assets/146712801/ed94ab32-1e25-4960-8b27-04d1a37a2d81)
+
 Chamber division problem solving using karel 
 
 problem statment:
