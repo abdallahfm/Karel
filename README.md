@@ -1,6 +1,8 @@
 # Karel
 Chamber division problem solving using karel 
+
 problem statment:
+
 Divide a given map into 4 equal chambers - Do all the analysis to handle the special cases. i.e. maps that can't be divided into 4 equal chambers should be divided into the biggest possible number of equal chambers (3, 2, or 1).
 - You are allowed to use double lines of beepers if you need to, however, you need to observe that beepers use should be optimized.
 Notes:
